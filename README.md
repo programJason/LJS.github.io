@@ -1,2 +1,1 @@
-# LJS.github.io
-LJS's personal blog
+This is LJS's personal blog
